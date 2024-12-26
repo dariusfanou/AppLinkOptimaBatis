@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "com.example.optimabatis",
+      "package_name": "com.example.optimabatis",
+      "sha256_cert_fingerprints": ["75:16:F8:47:14:7D:27:69:50:15:66:95:2E:AB:0D:78:0E:1E:44:D0:23:21:FE:DC:9D:D9:DA:7A:C4:9D:C7:3E"]
+    }
+  }
+]
